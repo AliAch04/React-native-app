@@ -11,6 +11,7 @@ export default function Index() {
     >
       <Text>Edit app/index.tsx to edit this screen.</Text>
       <Text>Testing react native</Text>
+      <Text>Testing 2 react native</Text>
     </View>
   );
 }
